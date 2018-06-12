@@ -1,3 +1,6 @@
+# INPUT FILE
+#http://files.grouplens.org/datasets/movielens/ml-100k.zip
+
 from pyspark import SparkConf, SparkContext
 import collections
 
